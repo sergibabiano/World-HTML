@@ -1,2 +1,2 @@
 # World-HTML
-<img src="yo.jpeg" width="300" height="400"/>
+<img src="prueba.png" width="300" height="400"/>
